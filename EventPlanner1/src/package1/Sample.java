@@ -6,6 +6,7 @@ public class Sample {
 	{
 		System.out.print("Hello");
 		//Hello World, this is crap
+		;dk'akf
 	}	
 
 }
